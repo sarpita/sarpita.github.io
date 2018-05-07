@@ -87,7 +87,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/office-wallpapers.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -382,7 +382,7 @@ a:hover, a:focus, a:active {
   background: url('../img/css3.png');
 }
 .js{
-  background: url('../img/js.png');
+  background: url('../img/javascript.png');
 }
 .jquery{
   background: url('../img/jquery.png');
@@ -406,7 +406,7 @@ a:hover, a:focus, a:active {
   background: url('../img/illustrator.png');
 }
 .inkscape{
-  background: url('../img/inkscape.png');
+  background: url('../img/inkscape1.png');
 }
 .github{
   background: url('../img/github.png');
